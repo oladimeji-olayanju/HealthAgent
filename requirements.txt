@@ -1,0 +1,8 @@
+arxiv
+langchain-community
+load_dotenv
+wikipedia
+faiss-cpu
+langchain_ollama
+langchain
+langchain_groq
