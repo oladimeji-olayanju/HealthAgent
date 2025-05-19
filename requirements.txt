@@ -6,3 +6,4 @@ faiss-cpu
 langchain_ollama
 langchain
 langchain_groq
+qdrant-client
